@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+这里是明明，一个菜鸟。
+
+有在努力学习，希望自己能坚持下去。
+
+生活不易，大明叹气。
+
+
 <!--
 **xiaomingdiyihao/xiaomingdiyihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
